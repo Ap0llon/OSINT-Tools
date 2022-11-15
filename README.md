@@ -1,5 +1,18 @@
 # Table of content
-
+- Maps & Geolocation
+  - Mappy
+- Social Networks 
+  - Snapchat
+  - Instagram
+  - Twitter
+  - Mastodon
+  - YouTube
+  - TikTok
+  - Likedln
+  - Telegram 
+  - Discord
+- Domain & IP Adress
+  - Mappy
 # Maps & Geolocation
 | Link          | Description   |
 | ------------- | ------------- |
