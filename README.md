@@ -1,7 +1,12 @@
-# Table of content
-- Maps & Geolocation
-  - Mappy
-- Social Networks 
+<div align="center"><h1>OSINT TOOLS</h1></div>
+
+Hi everyone and welcome to my OSINT tools colection!
+
+
+> ## **Table of content**
+- [MAPS & GEOLOCATON](#maps--geolocation)
+  - [Mappy](https://fr.mappy.com/)
+- [SOCIAL NETWORKS]
   - Snapchat
   - Instagram
   - Twitter
@@ -9,30 +14,244 @@
   - YouTube
   - TikTok
   - Likedln
-  - Telegram 
+  - Telegram  
   - Discord
-- Domain & IP Adress
+- [DOMAINS & IP ADRESS]
   - Mappy
-# Maps & Geolocation
+- [NETWORK INVESTIGATIONS]
+- 
+- [GOOGLE DORK]
+- 
+- [EMAIL]
+- 
+- [PHONE NUMBER]
+
+> ## Maps & Geolocation
 | Link          | Description   |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-# Social Networks
+> ## Social Networks
 | Link          | Description   |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-# Domain & IP adress
+> ## Domain & IP adress
 | Link          | Description   |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-# 
-# 
-# 
-# 
-# 
+> ## Network Investigations
+| Link          | Description   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+> ## Google Dork
+| Link          | Description   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+> ## Phone Number
+| Link          | Description   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+> ## Email
+| Link          | Description   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
